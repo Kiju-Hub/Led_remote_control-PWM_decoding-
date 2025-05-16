@@ -5,7 +5,7 @@
 ---
 
 ## 🎥 시연 영상  
-[https://youtu.be/l7083ztuV90?feature=shared)]
+[![시연 영상](https://img.youtube.com/vi/l7083ztuV90/0.jpg)](https://youtu.be/l7083ztuV90)
 
 ---
 
